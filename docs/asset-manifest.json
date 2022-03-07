@@ -25,7 +25,7 @@
     "static/media/Oxygen-Bold.ttf": "./static/media/Oxygen-Bold.f84757bd7291dfa0f08e.ttf",
     "static/media/Oxygen-Regular.ttf": "./static/media/Oxygen-Regular.56e5848476493abbd93e.ttf",
     "static/media/Oxygen-Light.ttf": "./static/media/Oxygen-Light.9d47ba3c3a03b4e1810d.ttf",
-    "index.html": "/index.html",
+    "index.html": "./index.html",
     "main.06e2f33a.css.map": "./static/css/main.06e2f33a.css.map",
     "main.2f30d7e7.js.map": "./static/js/main.2f30d7e7.js.map"
   },
